@@ -1,12 +1,6 @@
 # Optimizing Shipment Efficiency with Data Analysis
 
-Welcome to the **Transportation and Logistics Challenge** repository! 🚚 In this project, we dive deep into analyzing logistics data to optimize shipment efficiency, reduce delays, and enhance supply chain visibility using the powerful tool, Power BI. Our goal is to provide valuable insights into top routes, delays, supplier trends, and peak shipments to improve overall logistics operations.
-
-## Repository Details
-
-- **Repository Name:** Transportation-and-logistics-Challenge
-- **Short Description:** Analyzing logistics data to optimize shipment efficiency, reduce delays, and enhance supply chain visibility using Power BI.
-- **Topics:** cleaning-data, critical-thinking, data-analysis, data-visualization, exploratory-data-analysis, feature-engineering, powerbi, preprocessing-data, problem-solving, python
+In this project, we dive deep into analyzing logistics data to optimize shipment efficiency, reduce delays, and enhance supply chain visibility using the powerful tool, Power BI. Our goal is to provide valuable insights into top routes, delays, supplier trends, and peak shipments to improve overall logistics operations.
 
 ## Explore the Insights
 
@@ -27,13 +21,3 @@ Our in-depth analysis involves various stages of data processing and visualizati
 
 - Python for data preprocessing and analysis
 - Power BI for data visualization and interactive dashboards
-
-## Get Started
-
-To explore the detailed findings and insights from our analysis, head over to the [Releases](https://github.com/Mohammed061/Transportation-and-logistics-Challenge/releases) section and download the latest report. Dive into the data, visualize the results, and gain a deeper understanding of the dynamics of transportation and logistics.
-
-Join us on this journey of optimizing shipment efficiency and enhancing supply chain visibility through the power of data analysis. Let's make logistics operations smoother, more efficient, and ultimately more profitable.
-
-![Logistics](https://image.freepik.com/free-photo/logistics-concept-tablet_23-2148121455.jpg)
-
-🌟 **Optimize Shipment Efficiency with Data Analysis** 🌟
